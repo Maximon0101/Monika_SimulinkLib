@@ -1,4 +1,4 @@
-# Monika_SimulinkLib
+# Monika Simulink Library
 Начальная библиотека Simulink от маёвцев Maximon0101 & bill8sayf
 
 # Добавление в браузер библиотек Simulink
