@@ -1,4 +1,4 @@
-# Monika Simulink Radio Library
+# Moniko Simulink Radio Library
 Начальная библиотека радиокомпонентов для Simulink от маёвцев Maximon0101 & [bill8sayf](https://github.com/Bill8sayf)
 
 # Элементы в библиотеке
