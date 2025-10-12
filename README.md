@@ -93,7 +93,7 @@ set_param(gcs, 'EnableLBRepository', 'on')
 
 Сохраните файл `Monika.slx` после выполнения команды.
 
-## Шаг 4. Обновление браузер библиотек
+## Шаг 4. Обновление браузера библиотек
 
 Откройте браузер библиотек Simulink (`Simulink Library Browser`).
 
