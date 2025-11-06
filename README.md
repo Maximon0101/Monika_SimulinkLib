@@ -1,7 +1,7 @@
 # Monika Simulink Radio Library
 Начальная библиотека радиокомпонентов для Simulink от маёвцев Maximon0101 & [bill8sayf](https://github.com/Bill8sayf)
 
-# Элементы в библиотеке (1.0.0)
+# Элементы в библиотеке (1.0.1)
 
 * Анализатор спектра
 * Усилитель
